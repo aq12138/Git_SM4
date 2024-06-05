@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469DC941-AEED-45CC-877E-C161AB81CF14}|ConsoleApplication1\\ConsoleApplication1.vcxproj|E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\sm4test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469DC941-AEED-45CC-877E-C161AB81CF14}|ConsoleApplication1\\ConsoleApplication1.vcxproj|E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\sm4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469DC941-AEED-45CC-877E-C161AB81CF14}|ConsoleApplication1\\ConsoleApplication1.vcxproj|E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\sm4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sm4.c",
+              "DocumentMoniker": "E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\sm4.c",
+              "RelativeDocumentMoniker": "..\\sm4.c",
+              "ToolTip": "E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\sm4.c",
+              "RelativeToolTip": "..\\sm4.c",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAjwF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-04T07:58:43.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sm4.h",
+              "DocumentMoniker": "E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\sm4.h",
+              "RelativeDocumentMoniker": "..\\sm4.h",
+              "ToolTip": "E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\sm4.h",
+              "RelativeToolTip": "..\\sm4.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-04T07:59:00.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sm4test.c",
+              "DocumentMoniker": "E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\sm4test.c",
+              "RelativeDocumentMoniker": "..\\sm4test.c",
+              "ToolTip": "E:\\Desktop\\Work\\Class\\Class2_Program\\SM4\\C\\SM4\\sm4test.c",
+              "RelativeToolTip": "..\\sm4test.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-04T07:53:18.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
